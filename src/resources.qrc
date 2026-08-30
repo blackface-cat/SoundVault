@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>assets/logo.png</file>
+        <file alias="data/facets.json">../data/facets.json</file>
+        <file alias="data/ucs_tree.json">../data/ucs_tree.json</file>
+    </qresource>
+</RCC>

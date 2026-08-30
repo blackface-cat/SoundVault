@@ -1,0 +1,5 @@
+Category,SubCategory,CatID,Name,Chinese (Simplified),Explanations,Synonyms
+FOOTSTEPS,,FOOTSTEPS,Footsteps,脚步,Sounds of feet walking,steps;walking;foot;走路;脚步声
+FOOTSTEPS,GRASS,FOOTSTEPS_GRASS,Grass Footsteps,草地脚步,Footsteps on grass,lawn;grass;草地
+AIRCRAFT,,AIRCRAFT,Aircraft,飞行器,Airplane and helicopter sounds,plane;airplane;飞机
+AIRCRAFT,HELICOPTER,AIRCRAFT_HELICOPTER,Helicopter,直升机,Helicopter sounds,chopper;rotor;旋翼

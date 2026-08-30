@@ -1,0 +1,33 @@
+# 构建产物
+build/
+build-*/
+cmake-build-*/
+dist/
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.pro
+*.user
+*.autosave
+
+# 运行时数据（本地素材库数据库/日志）
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.log
+
+# Qt
+.qmake.stash
+Makefile
+*.o
+*.obj
+*.exe
+*.dll
+*.app
+*.dmg
+
+# 系统
+.DS_Store
+Thumbs.db

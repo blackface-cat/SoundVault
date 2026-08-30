@@ -1,0 +1,1487 @@
+[
+ {
+  "dim": "emotion",
+  "cn": "情绪",
+  "multi": true,
+  "tags": [
+   {
+    "id": "sad",
+    "cn": "悲伤",
+    "en": "Sad",
+    "group": ""
+   },
+   {
+    "id": "melancholy",
+    "cn": "惆怅",
+    "en": "Melancholy",
+    "group": ""
+   },
+   {
+    "id": "gloomy",
+    "cn": "忧郁",
+    "en": "Gloomy",
+    "group": ""
+   },
+   {
+    "id": "tragic_heroic",
+    "cn": "悲壮",
+    "en": "Tragic Heroic",
+    "group": ""
+   },
+   {
+    "id": "weathered",
+    "cn": "沧桑",
+    "en": "Weathered",
+    "group": ""
+   },
+   {
+    "id": "tender",
+    "cn": "温柔",
+    "en": "Tender",
+    "group": ""
+   },
+   {
+    "id": "warm",
+    "cn": "温馨",
+    "en": "Warm",
+    "group": ""
+   },
+   {
+    "id": "sweet",
+    "cn": "甜蜜",
+    "en": "Sweet",
+    "group": ""
+   },
+   {
+    "id": "heartfelt",
+    "cn": "心动",
+    "en": "Heartfelt",
+    "group": ""
+   },
+   {
+    "id": "romantic",
+    "cn": "浪漫",
+    "en": "Romantic",
+    "group": ""
+   },
+   {
+    "id": "hopeful",
+    "cn": "希望",
+    "en": "Hopeful",
+    "group": ""
+   },
+   {
+    "id": "happy",
+    "cn": "开心",
+    "en": "Happy",
+    "group": ""
+   },
+   {
+    "id": "relaxed",
+    "cn": "轻松",
+    "en": "Relaxed",
+    "group": ""
+   },
+   {
+    "id": "cheerful",
+    "cn": "欢快",
+    "en": "Cheerful",
+    "group": ""
+   },
+   {
+    "id": "playful",
+    "cn": "调皮",
+    "en": "Playful",
+    "group": ""
+   },
+   {
+    "id": "passionate",
+    "cn": "热血",
+    "en": "Passionate",
+    "group": ""
+   },
+   {
+    "id": "cool",
+    "cn": "帅气",
+    "en": "Cool",
+    "group": ""
+   },
+   {
+    "id": "intense",
+    "cn": "激昂",
+    "en": "Intense",
+    "group": ""
+   },
+   {
+    "id": "epic",
+    "cn": "史诗",
+    "en": "Epic",
+    "group": ""
+   },
+   {
+    "id": "grand",
+    "cn": "恢弘",
+    "en": "Grand",
+    "group": ""
+   },
+   {
+    "id": "solemn",
+    "cn": "庄严",
+    "en": "Solemn",
+    "group": ""
+   },
+   {
+    "id": "calm",
+    "cn": "平静",
+    "en": "Calm",
+    "group": ""
+   },
+   {
+    "id": "subtle",
+    "cn": "淡情绪",
+    "en": "Subtle",
+    "group": ""
+   },
+   {
+    "id": "mysterious",
+    "cn": "神秘",
+    "en": "Mysterious",
+    "group": ""
+   },
+   {
+    "id": "tense",
+    "cn": "紧张",
+    "en": "Tense",
+    "group": ""
+   },
+   {
+    "id": "grave",
+    "cn": "凝重",
+    "en": "Grave",
+    "group": ""
+   },
+   {
+    "id": "oppressive",
+    "cn": "压抑",
+    "en": "Oppressive",
+    "group": ""
+   },
+   {
+    "id": "despair",
+    "cn": "绝望",
+    "en": "Despair",
+    "group": ""
+   },
+   {
+    "id": "lonely",
+    "cn": "孤独",
+    "en": "Lonely",
+    "group": ""
+   },
+   {
+    "id": "terrifying",
+    "cn": "恐怖",
+    "en": "Terrifying",
+    "group": ""
+   },
+   {
+    "id": "eerie",
+    "cn": "诡异",
+    "en": "Eerie",
+    "group": ""
+   },
+   {
+    "id": "nostalgic",
+    "cn": "怀旧",
+    "en": "Nostalgic",
+    "group": ""
+   },
+   {
+    "id": "seductive",
+    "cn": "魅惑",
+    "en": "Seductive",
+    "group": ""
+   }
+  ]
+ },
+ {
+  "dim": "atmosphere",
+  "cn": "氛围",
+  "multi": true,
+  "tags": [
+   {
+    "id": "ethereal",
+    "cn": "空灵",
+    "en": "Ethereal",
+    "group": ""
+   },
+   {
+    "id": "dreamy",
+    "cn": "梦幻",
+    "en": "Dreamy",
+    "group": ""
+   },
+   {
+    "id": "dark",
+    "cn": "黑暗",
+    "en": "Dark",
+    "group": ""
+   },
+   {
+    "id": "cold",
+    "cn": "冰冷",
+    "en": "Cold",
+    "group": ""
+   },
+   {
+    "id": "floating",
+    "cn": "悬浮",
+    "en": "Floating",
+    "group": ""
+   },
+   {
+    "id": "psychedelic",
+    "cn": "迷幻",
+    "en": "Psychedelic",
+    "group": ""
+   },
+   {
+    "id": "sacred",
+    "cn": "神圣",
+    "en": "Sacred",
+    "group": ""
+   },
+   {
+    "id": "big_ambience",
+    "cn": "大氛围",
+    "en": "Big Ambience",
+    "group": ""
+   },
+   {
+    "id": "bed",
+    "cn": "铺底",
+    "en": "Bed",
+    "group": ""
+   },
+   {
+    "id": "low_end",
+    "cn": "低频",
+    "en": "Low End",
+    "group": ""
+   },
+   {
+    "id": "nature",
+    "cn": "自然",
+    "en": "Nature",
+    "group": ""
+   },
+   {
+    "id": "exotic",
+    "cn": "异域",
+    "en": "Exotic",
+    "group": ""
+   },
+   {
+    "id": "ethnic",
+    "cn": "民族",
+    "en": "Ethnic",
+    "group": ""
+   },
+   {
+    "id": "festive",
+    "cn": "节日",
+    "en": "Festive",
+    "group": ""
+   }
+  ]
+ },
+ {
+  "dim": "purpose",
+  "cn": "用途",
+  "multi": true,
+  "tags": [
+   {
+    "id": "bgm",
+    "cn": "背景音乐",
+    "en": "BGM",
+    "group": ""
+   },
+   {
+    "id": "trailer",
+    "cn": "预告片",
+    "en": "Trailer",
+    "group": ""
+   },
+   {
+    "id": "opening",
+    "cn": "片头",
+    "en": "Opening",
+    "group": ""
+   },
+   {
+    "id": "ending",
+    "cn": "片尾",
+    "en": "Ending",
+    "group": ""
+   },
+   {
+    "id": "transition",
+    "cn": "转场",
+    "en": "Transition",
+    "group": ""
+   },
+   {
+    "id": "loop",
+    "cn": "循环乐段",
+    "en": "Loop",
+    "group": ""
+   },
+   {
+    "id": "logo",
+    "cn": "标版",
+    "en": "Logo",
+    "group": ""
+   },
+   {
+    "id": "montage",
+    "cn": "蒙太奇",
+    "en": "Montage",
+    "group": ""
+   },
+   {
+    "id": "stinger",
+    "cn": "刺点",
+    "en": "Stinger",
+    "group": ""
+   }
+  ]
+ },
+ {
+  "dim": "scene",
+  "cn": "场景",
+  "multi": true,
+  "tags": [
+   {
+    "id": "opening",
+    "cn": "开场",
+    "en": "Opening",
+    "group": ""
+   },
+   {
+    "id": "ending",
+    "cn": "片尾",
+    "en": "Ending",
+    "group": ""
+   },
+   {
+    "id": "transition",
+    "cn": "转场",
+    "en": "Transition",
+    "group": ""
+   },
+   {
+    "id": "stinger",
+    "cn": "短句",
+    "en": "Stinger",
+    "group": ""
+   },
+   {
+    "id": "climax",
+    "cn": "高潮",
+    "en": "Climax",
+    "group": ""
+   },
+   {
+    "id": "boss_battle",
+    "cn": "Boss战",
+    "en": "Boss Battle",
+    "group": ""
+   },
+   {
+    "id": "flashback",
+    "cn": "回忆",
+    "en": "Flashback",
+    "group": ""
+   },
+   {
+    "id": "farewell",
+    "cn": "离别",
+    "en": "Farewell",
+    "group": ""
+   },
+   {
+    "id": "confession",
+    "cn": "告白",
+    "en": "Confession",
+    "group": ""
+   },
+   {
+    "id": "growth",
+    "cn": "成长",
+    "en": "Growth",
+    "group": ""
+   },
+   {
+    "id": "battle",
+    "cn": "战斗",
+    "en": "Battle",
+    "group": ""
+   },
+   {
+    "id": "war",
+    "cn": "战争",
+    "en": "War",
+    "group": ""
+   },
+   {
+    "id": "chase",
+    "cn": "追逐",
+    "en": "Chase",
+    "group": ""
+   },
+   {
+    "id": "investigation",
+    "cn": "调查",
+    "en": "Investigation",
+    "group": ""
+   },
+   {
+    "id": "deduction",
+    "cn": "推理",
+    "en": "Deduction",
+    "group": ""
+   },
+   {
+    "id": "suspense",
+    "cn": "悬疑",
+    "en": "Suspense",
+    "group": ""
+   },
+   {
+    "id": "horror",
+    "cn": "恐怖",
+    "en": "Horror",
+    "group": ""
+   },
+   {
+    "id": "inner_monologue",
+    "cn": "内心戏",
+    "en": "Inner Monologue",
+    "group": ""
+   },
+   {
+    "id": "narration",
+    "cn": "旁白",
+    "en": "Narration",
+    "group": ""
+   },
+   {
+    "id": "montage",
+    "cn": "蒙太奇",
+    "en": "Montage",
+    "group": ""
+   },
+   {
+    "id": "daily_life",
+    "cn": "日常",
+    "en": "Daily Life",
+    "group": ""
+   },
+   {
+    "id": "romance",
+    "cn": "恋爱",
+    "en": "Romance",
+    "group": ""
+   },
+   {
+    "id": "friendship",
+    "cn": "友情",
+    "en": "Friendship",
+    "group": ""
+   },
+   {
+    "id": "family",
+    "cn": "亲情",
+    "en": "Family",
+    "group": ""
+   },
+   {
+    "id": "rising_hope",
+    "cn": "希望上升",
+    "en": "Rising Hope",
+    "group": ""
+   },
+   {
+    "id": "oppression",
+    "cn": "压迫",
+    "en": "Oppression",
+    "group": ""
+   },
+   {
+    "id": "hype",
+    "cn": "燃点",
+    "en": "Hype",
+    "group": ""
+   },
+   {
+    "id": "comedy",
+    "cn": "搞笑桥段",
+    "en": "Comedy",
+    "group": ""
+   },
+   {
+    "id": "scheming",
+    "cn": "权谋",
+    "en": "Scheming",
+    "group": ""
+   }
+  ]
+ },
+ {
+  "dim": "era",
+  "cn": "时代",
+  "multi": true,
+  "tags": [
+   {
+    "id": "modern",
+    "cn": "现代",
+    "en": "Modern",
+    "group": ""
+   },
+   {
+    "id": "republican_era",
+    "cn": "民国",
+    "en": "Republican Era",
+    "group": ""
+   },
+   {
+    "id": "70s_80s",
+    "cn": "7080年代",
+    "en": "70s-80s",
+    "group": ""
+   },
+   {
+    "id": "ancient_china",
+    "cn": "古风",
+    "en": "Ancient China",
+    "group": ""
+   },
+   {
+    "id": "pre_qin",
+    "cn": "先秦",
+    "en": "Pre-Qin",
+    "group": ""
+   },
+   {
+    "id": "ancient_japan",
+    "cn": "古代日本",
+    "en": "Ancient Japan",
+    "group": ""
+   },
+   {
+    "id": "sengoku",
+    "cn": "战国",
+    "en": "Sengoku",
+    "group": ""
+   },
+   {
+    "id": "edo",
+    "cn": "江户",
+    "en": "Edo",
+    "group": ""
+   },
+   {
+    "id": "medieval_europe",
+    "cn": "欧洲中世纪",
+    "en": "Medieval Europe",
+    "group": ""
+   },
+   {
+    "id": "victorian",
+    "cn": "维多利亚",
+    "en": "Victorian",
+    "group": ""
+   },
+   {
+    "id": "western",
+    "cn": "西部",
+    "en": "Western",
+    "group": ""
+   },
+   {
+    "id": "future",
+    "cn": "未来",
+    "en": "Future",
+    "group": ""
+   },
+   {
+    "id": "post_apocalyptic",
+    "cn": "末日",
+    "en": "Post-Apocalyptic",
+    "group": ""
+   },
+   {
+    "id": "space",
+    "cn": "宇宙",
+    "en": "Space",
+    "group": ""
+   }
+  ]
+ },
+ {
+  "dim": "instrument",
+  "cn": "乐器",
+  "multi": true,
+  "tags": [
+   {
+    "id": "piano",
+    "cn": "钢琴",
+    "en": "Piano",
+    "group": "键盘"
+   },
+   {
+    "id": "upright_piano",
+    "cn": "立式钢琴",
+    "en": "Upright Piano",
+    "group": "键盘"
+   },
+   {
+    "id": "electric_piano",
+    "cn": "电钢琴",
+    "en": "Electric Piano",
+    "group": "键盘"
+   },
+   {
+    "id": "organ",
+    "cn": "管风琴",
+    "en": "Organ",
+    "group": "键盘"
+   },
+   {
+    "id": "harpsichord",
+    "cn": "羽管键琴",
+    "en": "Harpsichord",
+    "group": "键盘"
+   },
+   {
+    "id": "celesta",
+    "cn": "钢片琴",
+    "en": "Celesta",
+    "group": "键盘"
+   },
+   {
+    "id": "accordion",
+    "cn": "手风琴",
+    "en": "Accordion",
+    "group": "键盘"
+   },
+   {
+    "id": "harmonium",
+    "cn": "簧风琴",
+    "en": "Harmonium",
+    "group": "键盘"
+   },
+   {
+    "id": "solo_violin",
+    "cn": "独奏小提琴",
+    "en": "Solo Violin",
+    "group": "弦乐"
+   },
+   {
+    "id": "violin_section",
+    "cn": "小提琴组",
+    "en": "Violin Section",
+    "group": "弦乐"
+   },
+   {
+    "id": "viola",
+    "cn": "中提琴",
+    "en": "Viola",
+    "group": "弦乐"
+   },
+   {
+    "id": "cello",
+    "cn": "大提琴",
+    "en": "Cello",
+    "group": "弦乐"
+   },
+   {
+    "id": "double_bass",
+    "cn": "低音提琴",
+    "en": "Double Bass",
+    "group": "弦乐"
+   },
+   {
+    "id": "full_strings",
+    "cn": "弦乐全奏",
+    "en": "Full Strings",
+    "group": "弦乐"
+   },
+   {
+    "id": "acoustic_guitar",
+    "cn": "木吉他",
+    "en": "Acoustic Guitar",
+    "group": "吉他"
+   },
+   {
+    "id": "nylon_guitar",
+    "cn": "尼龙弦吉他",
+    "en": "Nylon Guitar",
+    "group": "吉他"
+   },
+   {
+    "id": "electric_guitar",
+    "cn": "电吉他",
+    "en": "Electric Guitar",
+    "group": "吉他"
+   },
+   {
+    "id": "bass",
+    "cn": "贝斯",
+    "en": "Bass",
+    "group": "吉他"
+   },
+   {
+    "id": "ukulele",
+    "cn": "尤克里里",
+    "en": "Ukulele",
+    "group": "吉他"
+   },
+   {
+    "id": "harp",
+    "cn": "竖琴",
+    "en": "Harp",
+    "group": "竖琴"
+   },
+   {
+    "id": "lyre",
+    "cn": "里拉琴",
+    "en": "Lyre",
+    "group": "竖琴"
+   },
+   {
+    "id": "trumpet",
+    "cn": "小号",
+    "en": "Trumpet",
+    "group": "铜管"
+   },
+   {
+    "id": "trombone",
+    "cn": "长号",
+    "en": "Trombone",
+    "group": "铜管"
+   },
+   {
+    "id": "french_horn",
+    "cn": "圆号",
+    "en": "French Horn",
+    "group": "铜管"
+   },
+   {
+    "id": "tuba",
+    "cn": "大号",
+    "en": "Tuba",
+    "group": "铜管"
+   },
+   {
+    "id": "brass_ensemble",
+    "cn": "铜管组",
+    "en": "Brass Ensemble",
+    "group": "铜管"
+   },
+   {
+    "id": "flute",
+    "cn": "长笛",
+    "en": "Flute",
+    "group": "木管"
+   },
+   {
+    "id": "piccolo",
+    "cn": "短笛",
+    "en": "Piccolo",
+    "group": "木管"
+   },
+   {
+    "id": "clarinet",
+    "cn": "单簧管",
+    "en": "Clarinet",
+    "group": "木管"
+   },
+   {
+    "id": "oboe",
+    "cn": "双簧管",
+    "en": "Oboe",
+    "group": "木管"
+   },
+   {
+    "id": "bassoon",
+    "cn": "巴松管",
+    "en": "Bassoon",
+    "group": "木管"
+   },
+   {
+    "id": "recorder",
+    "cn": "竖笛",
+    "en": "Recorder",
+    "group": "木管"
+   },
+   {
+    "id": "drum_kit",
+    "cn": "架子鼓",
+    "en": "Drum Kit",
+    "group": "打击"
+   },
+   {
+    "id": "timpani",
+    "cn": "定音鼓",
+    "en": "Timpani",
+    "group": "打击"
+   },
+   {
+    "id": "cymbals",
+    "cn": "镲片",
+    "en": "Cymbals",
+    "group": "打击"
+   },
+   {
+    "id": "glockenspiel",
+    "cn": "钟琴",
+    "en": "Glockenspiel",
+    "group": "打击"
+   },
+   {
+    "id": "xylophone",
+    "cn": "木琴",
+    "en": "Xylophone",
+    "group": "打击"
+   },
+   {
+    "id": "vibraphone",
+    "cn": "颤音琴",
+    "en": "Vibraphone",
+    "group": "打击"
+   },
+   {
+    "id": "marimba",
+    "cn": "马林巴",
+    "en": "Marimba",
+    "group": "打击"
+   },
+   {
+    "id": "tubular_bells",
+    "cn": "管钟",
+    "en": "Tubular Bells",
+    "group": "打击"
+   },
+   {
+    "id": "hand_percussion",
+    "cn": "手打击乐",
+    "en": "Hand Percussion",
+    "group": "打击"
+   },
+   {
+    "id": "choir",
+    "cn": "合唱团",
+    "en": "Choir",
+    "group": "人声"
+   },
+   {
+    "id": "female_vocal",
+    "cn": "女声",
+    "en": "Female Vocal",
+    "group": "人声"
+   },
+   {
+    "id": "male_vocal",
+    "cn": "男声",
+    "en": "Male Vocal",
+    "group": "人声"
+   },
+   {
+    "id": "children_s_choir",
+    "cn": "童声合唱",
+    "en": "Children's Choir",
+    "group": "人声"
+   },
+   {
+    "id": "ethnic_vocal",
+    "cn": "民族人声",
+    "en": "Ethnic Vocal",
+    "group": "人声"
+   },
+   {
+    "id": "solo_voice",
+    "cn": "独唱",
+    "en": "Solo Voice",
+    "group": "人声"
+   },
+   {
+    "id": "guzheng",
+    "cn": "古筝",
+    "en": "Guzheng",
+    "group": "中国·弹拨"
+   },
+   {
+    "id": "guqin",
+    "cn": "古琴",
+    "en": "Guqin",
+    "group": "中国·弹拨"
+   },
+   {
+    "id": "pipa",
+    "cn": "琵琶",
+    "en": "Pipa",
+    "group": "中国·弹拨"
+   },
+   {
+    "id": "ruan",
+    "cn": "阮",
+    "en": "Ruan",
+    "group": "中国·弹拨"
+   },
+   {
+    "id": "liuqin",
+    "cn": "柳琴",
+    "en": "Liuqin",
+    "group": "中国·弹拨"
+   },
+   {
+    "id": "yueqin",
+    "cn": "月琴",
+    "en": "Yueqin",
+    "group": "中国·弹拨"
+   },
+   {
+    "id": "sanxian",
+    "cn": "三弦",
+    "en": "Sanxian",
+    "group": "中国·弹拨"
+   },
+   {
+    "id": "yangqin",
+    "cn": "扬琴",
+    "en": "Yangqin",
+    "group": "中国·弹拨"
+   },
+   {
+    "id": "erhu",
+    "cn": "二胡",
+    "en": "Erhu",
+    "group": "中国·拉弦"
+   },
+   {
+    "id": "gaohu",
+    "cn": "高胡",
+    "en": "Gaohu",
+    "group": "中国·拉弦"
+   },
+   {
+    "id": "zhonghu",
+    "cn": "中胡",
+    "en": "Zhonghu",
+    "group": "中国·拉弦"
+   },
+   {
+    "id": "banhu",
+    "cn": "板胡",
+    "en": "Banhu",
+    "group": "中国·拉弦"
+   },
+   {
+    "id": "jinghu",
+    "cn": "京胡",
+    "en": "Jinghu",
+    "group": "中国·拉弦"
+   },
+   {
+    "id": "morin_khuur",
+    "cn": "马头琴",
+    "en": "Morin Khuur",
+    "group": "中国·拉弦"
+   },
+   {
+    "id": "dizi",
+    "cn": "笛子",
+    "en": "Dizi",
+    "group": "中国·吹管"
+   },
+   {
+    "id": "xiao",
+    "cn": "箫",
+    "en": "Xiao",
+    "group": "中国·吹管"
+   },
+   {
+    "id": "xun",
+    "cn": "埙",
+    "en": "Xun",
+    "group": "中国·吹管"
+   },
+   {
+    "id": "suona",
+    "cn": "唢呐",
+    "en": "Suona",
+    "group": "中国·吹管"
+   },
+   {
+    "id": "sheng",
+    "cn": "笙",
+    "en": "Sheng",
+    "group": "中国·吹管"
+   },
+   {
+    "id": "bawu",
+    "cn": "巴乌",
+    "en": "Bawu",
+    "group": "中国·吹管"
+   },
+   {
+    "id": "hulusi",
+    "cn": "葫芦丝",
+    "en": "Hulusi",
+    "group": "中国·吹管"
+   },
+   {
+    "id": "guanzi",
+    "cn": "管子",
+    "en": "Guanzi",
+    "group": "中国·吹管"
+   },
+   {
+    "id": "dizi_xiao",
+    "cn": "笛箫",
+    "en": "Dizi & Xiao",
+    "group": "中国·吹管"
+   },
+   {
+    "id": "bianzhong",
+    "cn": "编钟",
+    "en": "Bianzhong",
+    "group": "中国·打击"
+   },
+   {
+    "id": "bianqing",
+    "cn": "编磬",
+    "en": "Bianqing",
+    "group": "中国·打击"
+   },
+   {
+    "id": "tanggu",
+    "cn": "堂鼓",
+    "en": "Tanggu",
+    "group": "中国·打击"
+   },
+   {
+    "id": "paigu",
+    "cn": "排鼓",
+    "en": "Paigu",
+    "group": "中国·打击"
+   },
+   {
+    "id": "yunluo",
+    "cn": "云锣",
+    "en": "Yunluo",
+    "group": "中国·打击"
+   },
+   {
+    "id": "muyu",
+    "cn": "木鱼",
+    "en": "Muyu",
+    "group": "中国·打击"
+   },
+   {
+    "id": "bo",
+    "cn": "钹",
+    "en": "Bo",
+    "group": "中国·打击"
+   },
+   {
+    "id": "luo",
+    "cn": "锣",
+    "en": "Luo",
+    "group": "中国·打击"
+   },
+   {
+    "id": "drum_ensemble",
+    "cn": "鼓乐",
+    "en": "Drum Ensemble",
+    "group": "中国·打击"
+   },
+   {
+    "id": "shakuhachi",
+    "cn": "尺八",
+    "en": "Shakuhachi",
+    "group": "日本"
+   },
+   {
+    "id": "shamisen",
+    "cn": "三味线",
+    "en": "Shamisen",
+    "group": "日本"
+   },
+   {
+    "id": "koto",
+    "cn": "箏",
+    "en": "Koto",
+    "group": "日本"
+   },
+   {
+    "id": "taiko",
+    "cn": "太鼓",
+    "en": "Taiko",
+    "group": "日本"
+   },
+   {
+    "id": "shinobue",
+    "cn": "篠笛",
+    "en": "Shinobue",
+    "group": "日本"
+   },
+   {
+    "id": "biwa",
+    "cn": "琵琶(日)",
+    "en": "Biwa",
+    "group": "日本"
+   },
+   {
+    "id": "duduk",
+    "cn": "杜杜克笛",
+    "en": "Duduk",
+    "group": "世界民族"
+   },
+   {
+    "id": "sitar",
+    "cn": "西塔琴",
+    "en": "Sitar",
+    "group": "世界民族"
+   },
+   {
+    "id": "sarangi",
+    "cn": "萨朗吉",
+    "en": "Sarangi",
+    "group": "世界民族"
+   },
+   {
+    "id": "bansuri",
+    "cn": "班苏里笛",
+    "en": "Bansuri",
+    "group": "世界民族"
+   },
+   {
+    "id": "nyckelharpa",
+    "cn": "瑞典键琴",
+    "en": "Nyckelharpa",
+    "group": "世界民族"
+   },
+   {
+    "id": "uilleann_pipes",
+    "cn": "爱尔兰风笛",
+    "en": "Uilleann Pipes",
+    "group": "世界民族"
+   },
+   {
+    "id": "bagpipe",
+    "cn": "风笛",
+    "en": "Bagpipe",
+    "group": "世界民族"
+   },
+   {
+    "id": "kalimba",
+    "cn": "卡林巴",
+    "en": "Kalimba",
+    "group": "世界民族"
+   },
+   {
+    "id": "hang_drum",
+    "cn": "手碟",
+    "en": "Hang Drum",
+    "group": "世界民族"
+   },
+   {
+    "id": "pan_flute",
+    "cn": "排箫",
+    "en": "Pan Flute",
+    "group": "世界民族"
+   },
+   {
+    "id": "harmonica",
+    "cn": "口琴",
+    "en": "Harmonica",
+    "group": "世界民族"
+   },
+   {
+    "id": "synth_pad",
+    "cn": "合成器铺底",
+    "en": "Synth Pad",
+    "group": "电子"
+   },
+   {
+    "id": "synth_lead",
+    "cn": "合成器主音",
+    "en": "Synth Lead",
+    "group": "电子"
+   },
+   {
+    "id": "synth_bass",
+    "cn": "合成器贝斯",
+    "en": "Synth Bass",
+    "group": "电子"
+   },
+   {
+    "id": "arp",
+    "cn": "琶音器",
+    "en": "Arp",
+    "group": "电子"
+   },
+   {
+    "id": "fx",
+    "cn": "效果音色",
+    "en": "FX",
+    "group": "电子"
+   },
+   {
+    "id": "ambient",
+    "cn": "氛围音色",
+    "en": "Ambient",
+    "group": "电子"
+   },
+   {
+    "id": "drone",
+    "cn": "持续低音",
+    "en": "Drone",
+    "group": "电子"
+   },
+   {
+    "id": "orchestra",
+    "cn": "管弦乐团",
+    "en": "Orchestra",
+    "group": "合奏"
+   }
+  ]
+ },
+ {
+  "dim": "vocal",
+  "cn": "人声",
+  "multi": false,
+  "tags": [
+   {
+    "id": "instrumental",
+    "cn": "纯音乐",
+    "en": "Instrumental",
+    "group": ""
+   },
+   {
+    "id": "male_vocal",
+    "cn": "男声",
+    "en": "Male Vocal",
+    "group": ""
+   },
+   {
+    "id": "female_vocal",
+    "cn": "女声",
+    "en": "Female Vocal",
+    "group": ""
+   },
+   {
+    "id": "choir",
+    "cn": "合唱",
+    "en": "Choir",
+    "group": ""
+   },
+   {
+    "id": "children_s_voice",
+    "cn": "童声",
+    "en": "Children's Voice",
+    "group": ""
+   },
+   {
+    "id": "rap",
+    "cn": "Rap",
+    "en": "Rap",
+    "group": ""
+   },
+   {
+    "id": "vocalise",
+    "cn": "吟唱",
+    "en": "Vocalise",
+    "group": ""
+   }
+  ]
+ },
+ {
+  "dim": "universe",
+  "cn": "世界观",
+  "multi": true,
+  "tags": [
+   {
+    "id": "reality",
+    "cn": "现实",
+    "en": "Reality",
+    "group": ""
+   },
+   {
+    "id": "urban_romance",
+    "cn": "都市言情",
+    "en": "Urban Romance",
+    "group": ""
+   },
+   {
+    "id": "urban_fantasy",
+    "cn": "都市异能",
+    "en": "Urban Fantasy",
+    "group": ""
+   },
+   {
+    "id": "court_intrigue",
+    "cn": "权谋宫斗",
+    "en": "Court Intrigue",
+    "group": ""
+   },
+   {
+    "id": "wuxia",
+    "cn": "武侠",
+    "en": "Wuxia",
+    "group": ""
+   },
+   {
+    "id": "xianxia",
+    "cn": "仙侠",
+    "en": "Xianxia",
+    "group": ""
+   },
+   {
+    "id": "eastern_fantasy",
+    "cn": "玄幻",
+    "en": "Eastern Fantasy",
+    "group": ""
+   },
+   {
+    "id": "fantasy",
+    "cn": "奇幻",
+    "en": "Fantasy",
+    "group": ""
+   },
+   {
+    "id": "mythology",
+    "cn": "神话",
+    "en": "Mythology",
+    "group": ""
+   },
+   {
+    "id": "magic",
+    "cn": "魔法",
+    "en": "Magic",
+    "group": ""
+   },
+   {
+    "id": "sci_fi",
+    "cn": "科幻",
+    "en": "Sci-Fi",
+    "group": ""
+   },
+   {
+    "id": "cyberpunk",
+    "cn": "赛博朋克",
+    "en": "Cyberpunk",
+    "group": ""
+   },
+   {
+    "id": "mystery",
+    "cn": "悬疑推理",
+    "en": "Mystery",
+    "group": ""
+   },
+   {
+    "id": "supernatural_horror",
+    "cn": "灵异恐怖",
+    "en": "Supernatural Horror",
+    "group": ""
+   },
+   {
+    "id": "cthulhu",
+    "cn": "克苏鲁",
+    "en": "Cthulhu",
+    "group": ""
+   },
+   {
+    "id": "wasteland",
+    "cn": "末日废土",
+    "en": "Wasteland",
+    "group": ""
+   },
+   {
+    "id": "isekai",
+    "cn": "异世界",
+    "en": "Isekai",
+    "group": ""
+   }
+  ]
+ },
+ {
+  "dim": "instrumentation",
+  "cn": "编制",
+  "multi": false,
+  "tags": [
+   {
+    "id": "solo",
+    "cn": "独奏",
+    "en": "Solo",
+    "group": ""
+   },
+   {
+    "id": "duo",
+    "cn": "二重奏",
+    "en": "Duo",
+    "group": ""
+   },
+   {
+    "id": "trio",
+    "cn": "三重奏",
+    "en": "Trio",
+    "group": ""
+   },
+   {
+    "id": "quartet",
+    "cn": "四重奏",
+    "en": "Quartet",
+    "group": ""
+   },
+   {
+    "id": "chamber",
+    "cn": "室内乐",
+    "en": "Chamber",
+    "group": ""
+   },
+   {
+    "id": "ensemble",
+    "cn": "合奏",
+    "en": "Ensemble",
+    "group": ""
+   },
+   {
+    "id": "orchestra",
+    "cn": "管弦乐团",
+    "en": "Orchestra",
+    "group": ""
+   },
+   {
+    "id": "hybrid_orchestra",
+    "cn": "混合管弦",
+    "en": "Hybrid Orchestra",
+    "group": ""
+   },
+   {
+    "id": "electronic",
+    "cn": "电子",
+    "en": "Electronic",
+    "group": ""
+   },
+   {
+    "id": "band",
+    "cn": "乐队",
+    "en": "Band",
+    "group": ""
+   }
+  ]
+ }
+]
